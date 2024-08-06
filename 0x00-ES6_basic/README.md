@@ -1,6 +1,2 @@
 ## Description
-0x00. ES6 Basics
-
-## Concepts
-* JavaScript programming
-* Software Linter
+This is the basics of ES6 basic
