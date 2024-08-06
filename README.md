@@ -1,6 +1,6 @@
-##Description
+## Description
 alx-frontend-javascript
 
-##Concepts
+## Concepts
 * JavaScript programming
 * Software Linter
