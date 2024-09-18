@@ -1,2 +1,2 @@
-# alx-frontend-javascript
-This is a frontend specialization to study more about javascript for frontend development
+alx-frontend-javascript
+This is a fr
