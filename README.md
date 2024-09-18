@@ -1,2 +1,2 @@
-alx-frontend-javascript
-This is a fr
+# alx-frontend-javascript
+This is a frontend javascript
